@@ -13,7 +13,7 @@ edition = "2021"
 
 [dependencies]
 byteorder = "1.2.7"
-dbase = { git = "https://github.com/ywata/dbase-rs", branch="binary-char" }
+dbase = { git = "https://github.com/ywata/dbase-rs", branch="feat-string-numeric" }
 geo-types = {version = ">=0.4.0, <0.8.0", optional = true}
 
 
